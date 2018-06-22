@@ -1,5 +1,4 @@
 # PythonLearning
 Learnings with python
 
-This branch is for review purpose, if review is successful, code will be merged to main/ master branch;
-otherwise, the code will be revert to dummy
+This branch is for coding purpose, all items will be sent to staging for review and test before final release to master
